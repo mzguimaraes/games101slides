@@ -45,7 +45,7 @@ class Game:
         
         print(self.title + '\n')
 
-        usrDate = raw_input("Date: ").lower()
+        usrDate = get_input("Date: ").lower()
         #print(usrDate, self.date)
         if usrDate == self.date:
             print("Correct\n")
@@ -55,7 +55,7 @@ class Game:
         else:
             print("Incorrect -- " + self.date + '\n')
 
-        usrDev = raw_input("Developer: ").lower()
+        usrDev = get_input("Developer: ").lower()
         if usrDev == self.dev:
             print("Correct\n")
             elementsCorrect += 1
@@ -64,7 +64,7 @@ class Game:
         else:
             print("Incorrect -- " + self.dev + '\n')
 
-        usrPlat = raw_input("Platform: ").lower()
+        usrPlat = get_input("Platform: ").lower()
         if usrPlat == self.platform:
             print("Correct\n")
             elementsCorrect += 1
@@ -73,7 +73,7 @@ class Game:
         else:
             print("Incorrect -- " + self.platform + '\n')
 
-        usrReg = raw_input("Region of origin: ").lower()
+        usrReg = get_input("Region of origin: ").lower()
         if usrReg == self.region:
             print("Correct\n")
             elementsCorrect += 1
@@ -103,7 +103,7 @@ def welcome():
     print("I made this pretty quickly.  No guarantees on its perfection. \n")
     print("There will probably be cases where your answer is right but the script \
 marks it wrong.  Don't take this personally.  Only one keeping score is you.")
-    raw_input("Press enter to begin.")
+    get_input("Press enter to begin.")
 
 def createGamesList():
     '''creates a list of Game objects from a file.  file must be named 
@@ -112,7 +112,7 @@ def createGamesList():
     
     gamesList = []
     
-    fin = open('plaintext key games.txt', 'r')
+    fin = open('plaintext key games.txt', 'r', encoding='utf-8')
     line = fin.readline()
     while line != '':
         title = line
@@ -135,7 +135,7 @@ def createGamesList():
     return gamesList
 
 def runTests(gamesList):
-    numToGet = int(raw_input("How many elements do you need to get right to get credit? "))
+    numToGet = int(get_input("How many elements do you need to get right to get credit? "))
     score = 0
     gamesRun = 0
     for game in gamesList:
@@ -156,6 +156,7 @@ def runTests(gamesList):
     print("you got %i game(s) correct out of %i\n" % (score, gamesRun) )
 
 if __name__ == '__main__':
+    #TODO: make this more elegant (then we can remove string casts around input)
     #code obtained from: https://triangle717.wordpress.com/tutorials/python/2a3printinput/
     #support input from python 2 and 3
     #default to 3
