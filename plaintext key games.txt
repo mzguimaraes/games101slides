@@ -1,0 +1,708 @@
+Chess 
+Date: ~600 BCE
+Developer: Unknown
+Platform: Board Game
+Region of Origin: India
+
+Snakes and Ladders
+Date: ~1500 BCE
+Developer: Unknown
+Platform: Board Game
+Region of Origin: India
+
+Checkers (Draughts)
+Date: ~1500 BCE
+Developer: Unknown
+Platform: Board Game
+Region of Origin: France
+
+The Royal Game of Ur
+Date: ~3000 BCE
+Developer: Unknown
+Platform: Board Game
+Region of Origin: Mesopotamia
+
+Senet
+Date: ~3000 BCE
+Developer: Unknown
+Platform: Board Game
+Region of Origin: Ancient Egypt
+
+Backgammon 
+Date: ~3000 BCE
+Developer: Unknown
+Platform: Board Game
+Region of Origin: Ancient Persia
+
+Knucklebones
+Date: ~5000 BCE
+Developer: Unknown
+Platform: Dice Game
+Region of Origin: Unknown
+
+Go 
+Date: ~2000 BCE
+Developer: Unknown
+Platform: Board Game
+Region of Origin: Ancient China
+
+Mancala 
+Date: ~600
+Developer: Unknown
+Platform: Board Game
+Region of Origin: Eastern Africa
+
+Madden NFL (series)
+Date: 1988
+Developer: Trip Hawkins, et al.
+Platform: Sports Simulation
+Region of Origin: USA
+
+American Football
+Date: 1862
+Developer: Walter Camp, et al.
+Platform: Ball Game
+Region of Origin: USA
+
+The Olympic Games
+Date: 776 BCE
+Developer: Unknown
+Platform: Field Games (various)
+Region of Origin: Ancient Greece
+
+Association Football (Soccer) 
+Date: 1848
+Developer: Unknown
+Platform: Ball Game
+Region of Origin: England
+Cricket
+Date: ca. 1700s
+Developer: Unknown
+Platform: Bat and Ball Game
+Region of Origin: England
+
+Basketball
+Date: 1891
+Developer: James Naismith
+Platform: Ball Game
+Region of Origin: USA
+
+Tennis
+Date: ca. 1100
+Developer: Unknown
+Platform: Ball and Racket Game
+Region of Origin: France
+
+Golf
+Date: ca. 1400
+Developer: Unknown
+Platform: Ball and Club Game
+Region of Origin: Scotland
+
+Formula One
+Date: 1946
+Developer: N/A
+Platform: Motor Sport
+Region of Origin: England
+
+
+Kentucky Route Zero 
+Date: 2013
+Developer: Cardboard Computer
+Platform: PC
+Region of Origin: USA
+
+Colossal Cave / Adventure
+Date: 1975
+Developer: Will Crowther
+Platform: PDP-10
+Region of Origin: USA
+
+Zork (series)
+Date: 1977
+Developer: Infocom
+Platform: PDP-10
+Region of Origin: USA
+
+King’s Quest (series)
+Date: 1984
+Developer: Robert Williams w. Sierra On-Line
+Platform: PC
+Region of Origin: USA
+
+Monkey Island (series) 
+Date: 1990
+Developer: Ron Gilbert w. LucasArts
+Platform: PC
+Region of Origin: USA
+
+Myst 
+Date: 1993
+Developer: Rand & Robin Miller, w. Cyan
+Platform: PC
+Region of Origin: USA
+
+Phoenix Wright: Ace Attorney 
+Date: 2001
+Developer: Shu Takumi w. Capcom
+Platform: GameBoy Advance
+Region of Origin: Japan
+
+Walking Dead
+Date: 2012
+Developer: Telltale Games
+Platform: PC
+Region of Origin: USA
+
+SpaceWar!
+Date: 1962
+Developer: Steve Russell & Martin Gaertz
+Platform: PDP-1
+Region of Origin: USA
+
+Pong
+Date: 1972
+Developer: Al Alcorn w. Atari
+Platform: Arcade
+Region of Origin: USA
+
+Mega Man (series) 
+Date: 1987
+Developer: Keiji Inafune w. Capcom
+Platform: NES
+Region of Origin: Japan
+
+Ninja Gaiden
+Date: 2004
+Developer: Tomonobu Itagaki w. Team Ninja
+Platform: XBox
+Region of Origin: Japan
+
+Space Invaders 
+Date: 1978
+Developer: Tomohiro Nishikado w. Taito
+Platform: Arcade
+Region of Origin: Japan
+
+Super Hexagon
+Date: 2012
+Developer: Terry Cavanaugh
+Platform: iOS
+Region of Origin: England
+
+Pac-Man
+Date: 1980
+Developer: Toru Iwatani w. Namco
+Platform: Arcade
+Region of Origin: Japan
+
+Centipede
+Date: 1981
+Developer: Donna Bailey & Ed Logg
+Platform: Arcade
+Region of Origin: USA
+
+Raiden
+Date: 1990
+Developer: Seibu Kaihatsu
+Platform: Arcade
+Region of Origin: Japan
+
+Super Mario (series) 
+Date: 1985
+Developer: Shigeru Miyamoto w. Nintendo
+Platform: NES
+Region of Origin: Japan
+
+Battlezone
+Date: 1980
+Developer: Ed Rotberg w. Atari
+Platform: Arcade
+Region of Origin: USA
+
+Portal
+Date: 2007
+Developer: Valve
+Platform: PC, Xbox 360, PS3
+Region of Origin: USA
+
+Doom 
+Date: 1993
+Developer: id Software
+Platform: PC
+Region of Origin: USA
+
+GoldenEye 007
+Date: 1997
+Developer: Rare
+Platform: Nintendo 64
+Region of Origin: United Kingdom
+
+Half-Life (series) 
+Date: 1998
+Developer: Valve
+Platform: PC
+Region of Origin: USA
+
+Counter-Strike
+Date: 1999
+Developer: Minh ‘Gooseman’ Le & Jess Cliffe
+Platform: PC
+Region of Origin: USA
+
+Deus Ex
+Date: 2000
+Developer: Ion Storm
+Platform: PC
+Region of Origin: USA
+
+Call of Duty: Modern Warfare 
+Date: 2007
+Developer: Infinity Ward, et al.
+Platform: Xbox 360, PS3
+Region of Origin: USA
+
+
+StarCraft (series) 
+Date: 1998
+Developer: Blizzard
+Platform: PC
+Region of Origin: USA
+
+League of Legends
+Date: 2009
+Developer: Riot
+Platform: PC
+Region of Origin: USA
+
+Kriegspiel
+Date: 1812
+Developer: George Leopold von Reiswitz
+Platform: Board Game
+Region of Origin: Prussia
+
+M.U.L.E.
+Date: 1983
+Developer: Danielle Bunten Berry
+Platform: Atari 400/800, Commodore 64
+Region of Origin: USA
+
+Populous
+Date: 1989
+Developer: Peter Molyneux w. Bullfrog
+Platform: Amiga, PC
+Region of Origin: England
+
+Civilization (series) 
+Date: 1991
+Developer: Sid Meier w. Microprose, et al.
+Platform: PC
+Region of Origin: USA
+
+X-Com: UFO Defense
+Date: 1993
+Developer: Julian Gollop w. Microprose
+Platform: PC
+Region of Origin: England
+
+Advance Wars 
+Date: 2001
+Developer: Intelligent Systems
+Platform: GameBoy Advance
+Region of Origin: Japan
+
+Dune 2
+Date: 1992
+Developer: Brett Sperry w. Westwood
+Platform: PC
+Region of Origin: USA
+
+Poker
+Date: ca. mid-1800s
+Developer: Unknown
+Platform: Card Game
+Region of Origin: USA
+
+Contract Bridge
+Date: 1925
+Developer: Harold Vanderbilt
+Platform: Card Game
+Region of Origin: International Waters
+
+Monopoly
+Date: ca. 1905 - 1910
+Developer: Elizabeth ‘Lizzie’ Magie
+Platform: Board Game
+Region of Origin: USA
+
+Settlers of Catan 
+Date: 1995
+Developer: Klaus Teuber
+Platform: Board Game
+Region of Origin: Germany
+
+Dominion
+Date: 2008
+Developer: Donald X. Vaccarino
+Platform: Card Game
+Region of Origin: USA
+
+Slot Machines
+Date: ca. 1890
+Developer: Charles Fey, et al.
+Platform: Casino Game
+Region of Origin: USA
+
+Scrabble
+Date: 1933
+Developer: Alfred Butts
+Platform: Board Game
+Region of Origin: USA
+
+Diplomacy
+Date: 1958
+Developer: Allan B. Calhamer
+Platform: Board Game
+Region of Origin: USA
+
+Magic: The Gathering 
+Date: 1993
+Developer: Richard Garfield
+Platform: Trading Card Game
+Region of Origin: USA
+
+
+Pokemon (series)
+Date: 1996
+Developer: Satoshi Tajiri
+Platform: GameBoy
+Region of Origin: Japan
+
+World of Warcraft
+Date: 2004
+Developer: Blizzard
+Platform: PC
+Region of Origin: USA
+
+Elder Scrolls V: Skyrim
+Date: 2011
+Developer: Bethesda Game Studios
+Platform: Windows, PS3, XBox 360
+Region of Origin: USA
+
+Dungeons & Dragons 
+Date: 1974
+Developer: Gary Gygax & Dave Arneson
+Platform: Tabletop Game
+Region of Origin: USA
+
+Wizardry
+Date: 1981
+Developer: Sirtech Software
+Platform: Apple II
+Region of Origin: USA
+
+Dragon Quest (series)
+Date: 1986
+Developer: Yuji Horii w. Chunsoft
+Platform: NES
+Region of Origin: Japan
+
+NetHack
+Date: 1987
+Developer: MIke Stephenson
+Platform: PC
+Region of Origin: USA
+
+Ultima (series)
+Date: 1981
+Developer: Richard Garriot w. Origin Systems
+Platform: PC
+Region of Origin: USA
+
+Diablo
+Date: 1996
+Developer: Blizzard
+Platform: PC
+Region of Origin: USA
+
+Fallout
+Date: 1997
+Developer: Tim Cain w. Interplay
+Platform: PC
+Region of Origin: USA
+
+
+The Sims
+Date: 2000
+Developer: Will Wright w. Maxis
+Platform: PC
+Region of Origin: USA
+
+Gran Turismo (series) 
+Date: 2001
+Developer: Polyphony Digital
+Platform: Playstation 2
+Region of Origin: Japan
+
+Lemonade Stand
+Date: 1973
+Developer: Bob Jamison
+Platform: Apple II
+Region of Origin: USA
+
+Oregon Trail 
+Date: 1971
+Developer: Don Rawitsch
+Platform: PC
+Region of Origin: USA
+
+Microsoft Flight Simulator
+Date: 1980
+Developer: subLOGIC
+Platform: Apple II, TRS-80
+Region of Origin: USA
+
+Elite
+Date: 1984
+Developer: David Braben & Ian Bell
+Platform: PC
+Region of Origin: United Kingdom
+
+Balance of Power
+Date: 1985
+Developer: Chris Crawford
+Platform: PC
+Region of Origin: USA
+
+SimCity 
+Date: 1989
+Developer: Will Wright w. Maxis
+Platform: PC
+Region of Origin: USA
+
+Championship Manager ‘93
+Date: 1993
+Developer: Paul & Oliver Collyer
+Platform: PC, Amiga
+Region of Origin: England
+
+
+Castlevania: Symphony of the Night
+Date:  1997
+Developer: Koji Igarashi w. Konami
+Platform: Playstation
+Region of Origin: Japan
+
+Adventure (2600) 
+Date: 1979
+Developer: Warren Robinett w. Atari
+Platform: Atari 2600
+Region of Origin: USA
+
+The Legend of Zelda (series) 
+Date: 1986
+Developer: Shigeru Miyamoto w. Nintendo
+Platform: NES
+Region of Origin: Japan
+
+Metal Gear (series)
+Date: 1987
+Developer: Hideo Kojima w. Konami
+Platform: MSX 2
+Region of Origin: Japan
+
+Another World 
+Date: 1991
+Developer: Eric Chahi
+Platform: Amiga
+Region of Origin: France
+
+Resident Evil (series)
+Date: 1996
+Developer: Shinji Mikami w. Capcom
+Platform: Playstation
+Region of Origin: Japan
+
+Tomb Raider (series)
+Date: 1996
+Developer: Core Design
+Platform: Sega Saturn
+Region of Origin: England
+
+Grand Theft Auto (series) 
+Date: 1997
+Developer: Rockstar Games
+Platform: Playstation
+Region of Origin: USA & Scotland
+
+
+Mixed Martial Arts
+Date: ca. 1920s
+Developer: Carlos & Helio Gracie, et al.
+Platform: Combat Sport
+Region of Origin: Brazil
+
+Boxing
+Date: 1743
+Developer: Jack Broughton
+Platform: Combat Sport
+Region of Origin: England
+
+Fencing
+Date: 1763
+Developer: Domenico Angelo
+Platform: Combat Sport
+Region of Origin: England
+
+Kyokushin Karate
+Date: ca. 1950
+Developer: Masutatsu ‘Mas’ Oyama
+Platform: Combat Sport
+Region of Origin: Japan
+
+Street Fighter (series) 
+Date: 1987
+Developer: Capcom
+Platform: Arcade
+Region of Origin: Japan
+
+Tekken (series) 
+Date: 1994
+Developer: Namco
+Platform: Arcade
+Region of Origin: Japan
+
+Bushido Blade
+Date: 1997
+Developer: Light Weight 
+Platform: Playstation
+Region of Origin: Japan
+
+Super Smash Bros. (series) 
+Date: 1999
+Developer: Masahiro Sakurai w. Nintendo
+Platform: Nintendo 64
+Region of Origin: Japan
+
+
+Bejeweled (series)
+Date: 2001
+Developer: PopCap Games
+Platform: PC
+Region of Origin: USA
+
+Crosswords
+Date: ca. 1800s
+Developer: Unknown
+Platform: Pen & Paper
+Region of Origin: England
+
+Sudoku
+Date: 1979
+Developer: Howard Garns
+Platform: Pen & Paper
+Region of Origin: USA
+
+Tetris
+Date: 1984
+Developer: Alexey Pajitnov
+Platform: PC
+Region of Origin: Soviet Union
+
+Microsoft Solitaire
+Date: 1990
+Developer: Wes Cherry & Susan Kare
+Platform: PC
+Region of Origin: USA
+
+Lemmings
+Date: 1991
+Developer: Dave Jones w. DMA Design
+Platform: Amiga
+Region of Origin: Scotland
+
+Microsoft Minesweeper
+Date: 1992
+Developer: Curt Johnson & Robert Donner
+Platform: PC
+Region of Origin: USA
+
+Puzzle Bobble
+Date: 1994
+Developer: Seiichi Nakakuki w. Taito
+Platform: Arcade
+Region of Origin: Japan
+
+Cave Story
+Date: 2004
+Developer: Daisuke ‘Pixel’ Amaya
+Platform: PC
+Region of Origin: USA
+
+Passage
+Date: 2007
+Developer: Jason Rohrer
+Platform: PC
+Region of Origin: USA
+
+JS Joust
+Date: 2011
+Developer: Copenhagen Game Collective
+Platform: Physical Game w. Move controllers
+Region of Origin: Denmark
+
+Journey
+Date: 2012
+Developer: thatgamecompany
+Platform: PS3
+Region of Origin: USA
+
+Alien Hominid
+Date: 2004
+Developer: Dan Paladin w. The Behemoth
+Platform: PS2, GameCube
+Region of Origin: USA
+
+Howling Dogs
+Date: 2012
+Developer: Porpentine
+Platform: Twine
+Region of Origin: USA
+
+Gone Home
+Date: 2013
+Developer: Steve Gaynor w. Fullbright
+Platform: PC
+Region of Origin: USA
+
+Flappy Bird
+Date: 2013
+Developer: Dong Nguyen
+Platform: iOS
+Region of Origin: Vietnam
+
+Rockband
+Date: 2007
+Developer: Harmonix
+Platform: PS2, PS3, Xbox 360, Wii
+Region of Origin: USA
+
+Spelunky
+Date: 2008
+Developer: Derek Yu w. Mossmouth
+Platform: PC
+Region of Origin: USA
+
+Farmville
+Date: 2009
+Developer: Zynga
+Platform: Facebook
+Region of Origin: USA
+
+Minecraft
+Date: 2009
+Developer: Markus ‘Notch’ Persson w. Mojang
+Platform: PC
+Region of Origin: Sweden
+
