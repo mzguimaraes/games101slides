@@ -8,7 +8,7 @@ This CLI program is far from perfect.  I would've put more time into polishing i
 
 TO USE:
 
---Ensure Python is installed on your computer. 
+--Ensure Python is installed on your computer.  If you don't have it, install it from https://www.python.org/downloads/
   
 --Download games101cards.py and the plaintext key games file, make sure they're in the same folder.
   
