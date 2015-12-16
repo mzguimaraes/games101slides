@@ -16,6 +16,7 @@ Written in 2.7 on a Mac.  Working on cross-compatibility.
 ##TODO: work on Windows compatibility
 from random import shuffle
 import sys
+import io
 
 class Game:
     'represents one of the key games'
@@ -111,8 +112,9 @@ def createGamesList():
     print("Loading games.  Please wait...\n")
     
     gamesList = []
-    
-    fin = open('plaintext key games.txt', 'r', encoding='utf-8')
+
+    #using io.open for cross-compatibility between python 2 and 3
+    fin = io.open('plaintext key games.txt', 'r', encoding='utf-8')
     line = fin.readline()
     while line != '':
         title = line
@@ -121,7 +123,6 @@ def createGamesList():
         platform = fin.readline().replace("Platform: ", "")
         region = fin.readline().replace("Region of Origin: ", "")
         newGame = Game(title, date, dev, platform, region)
-        #print(newGame)
         gamesList.append(newGame)
         
         #advance to next game
@@ -138,6 +139,7 @@ def runTests(gamesList):
     numToGet = int(get_input("How many elements do you need to get right to get credit? "))
     score = 0
     gamesRun = 0
+    print("Enter 'exit' at any time to exit and get stats!\n")
     for game in gamesList:
 
         print("Game #%i: " % (gamesRun + 1) )
