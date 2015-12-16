@@ -10,4 +10,4 @@ Made use of PDFMiner (https://github.com/euske/pdfminer) to convert the PDF game
 
 Still working on compatibility.  If this doesn't work on your computer please let me know!
 
-Requires Python, tested on version 2 on Mac OSX.  I'm aiming for full cross-compatibility.
+Requires Python, tested on version 2.7 on Mac OSX.  I'm aiming for full cross-compatibility.
