@@ -1,5 +1,6 @@
 # games101slides
-by Marcus Guimaraes <mzg218@nyu.edu>
+by Marcus Guimaraes \<mzg218@nyu.edu\> 
+
 Flashcard app to help Games 101 students at NYU study for their final exam!  (Fall 2015)
 
 This is also the first project I've posted on Github, so that's exciting.
