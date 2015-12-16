@@ -7,3 +7,5 @@ This is also the first project I've posted on Github, so that's exciting.
 This CLI program is far from perfect.  I would've put more time into polishing it, but I have finals to study for.
 
 Still working on compatibility.  If this doesn't work on your computer please let me know!
+
+Requires Python, tested on version 2 on Mac OSX.  I'm aiming for full cross-compatibility.
