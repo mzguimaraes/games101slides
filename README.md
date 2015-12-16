@@ -7,6 +7,7 @@ This is also the first project I've posted on Github, so that's exciting.
 This CLI program is far from perfect.  I would've put more time into polishing it, but I have finals to study for.
 
 TO USE:
+
 --Ensure Python is installed on your computer. 
   
 --Download games101cards.py and the plaintext key games file, make sure they're in the same folder.
